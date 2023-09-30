@@ -1,0 +1,4 @@
+/home/bulba_daddy/kolomiets.dmitriy-game/cmake-build-debug/CMakeFiles/Project.dir
+/home/bulba_daddy/kolomiets.dmitriy-game/cmake-build-debug/CMakeFiles/lint.dir
+/home/bulba_daddy/kolomiets.dmitriy-game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bulba_daddy/kolomiets.dmitriy-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
